@@ -18,7 +18,7 @@ outname=feb24_maria_IPSCs
 export LANG=C
 export LC_ALL=C
 
-dorado-0.5.0-linux-x64/bin/dorado basecaller \
+dorado-0.5.3-linux-x64/bin/dorado basecaller \
     --device "cuda:all" \
     --emit-fastq \
     --verbose \
