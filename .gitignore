@@ -4,3 +4,5 @@ files/fast5s/*
 files/pod5s/*
 images/*
 old.*
+slurm-*
+*fastq*
